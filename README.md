@@ -1,0 +1,1 @@
+# NSG-and-Share-Permissions
