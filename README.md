@@ -25,6 +25,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create and test access and permissions for "ACCOUNTANTS" Security Group
 
 <h2>Actions and Observations</h2>
+https://i.imgur.com/A1uBAOy.png
+
+
+
+
 
 <p>
 <b>1.) Create some sample file shares with various permissions</b>
